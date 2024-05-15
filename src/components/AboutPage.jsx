@@ -4,7 +4,7 @@ const About = () => {
 	return (
 		<div className='about'>
 			<h1>
-				Project: Shopping Cart -{' '}
+				React shopping_cart -{' '}
 				<Link
 					to='https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart'
 					target='_blank'
@@ -22,9 +22,9 @@ const About = () => {
 				</Link>
 			</p>
 			<p>
-				CardModal, Rating -
+				CardModal, Rating - 
 				<Link to='https://mui.com/' target='_blank'>
-					Material UI. Move faster with intuitive React UI tools
+					Material UI
 				</Link>
 			</p>
 			<p>
