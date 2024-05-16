@@ -29,7 +29,7 @@ const App = () => {
 							}
 						/>
 						<Route
-							path='/'
+							path='/buy_box'
 							element={<HomePage showCart={showCart} />}
 						/>
 						<Route
