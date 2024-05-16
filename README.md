@@ -1,5 +1,5 @@
 # mock_shopping-cart.
-![My Image](Screenshot.png)
+![My Image](Screenshot_buybox.png)
 
 ## [Demo](https://bbm2910.github.io/BuyBox/)
 ## Components and Functionalities
