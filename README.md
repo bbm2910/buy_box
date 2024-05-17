@@ -1,7 +1,7 @@
 # mock_shopping-cart.
 ![My Image](Screenshot_buybox.png)
 
-## [Demo](https://bbm2910.github.io/buy_box)
+## [Demo](https://bbm2910.github.io/shop)
 ## Components and Functionalities
 * Navigation: A navigation bar component is displayed on both the home and shop pages, allowing users to navigate between them.
 * ProductCard: An individual card element representing each product, displaying product information, an input field for quantity, and buttons for incrementing/decrementing quantity and adding the product to the cart.
