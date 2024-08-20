@@ -20,3 +20,22 @@
 ## Testing
 * Unit tests are written using Vitest (as test runner) and React Testing Library.
 * Tests cover components and functionalities, ensuring proper behavior and user interaction.
+
+  ## Compatibility and Requirements
+
+### Web Compatibility
+This project is designed to be fully functional and optimized for desktop and web browsers. 
+
+### Mobile Devices
+Please note that this project is **not optimized for mobile devices**. The user interface and user experience may not be suitable for mobile viewports, and certain features or layouts may not function as intended on smaller screens.
+
+### Requirements
+- A modern web browser (e.g., Chrome, Firefox, Safari, Edge) with a desktop or laptop display.
+- Recommended screen width: 1024px or greater.
+
+### Known Issues on Mobile
+- The layout may be distorted or unusable on mobile devices.
+- Certain interactive elements or features might not be accessible or may not work properly on smaller screens.
+
+If mobile support is required, additional development and testing will be necessary to ensure a responsive design and a seamless experience across all device types.
+
